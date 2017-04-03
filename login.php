@@ -27,11 +27,7 @@
       <a href="./register.php">Register</a>
     </p>
     <script type="text/javascript">
-    function resetform(){
-      document.getElementById('login_email').reset();
-      document.getElementById('login_password').reset();
-      }
-      resetform();
+
     </script>
   </body>
 </html>
